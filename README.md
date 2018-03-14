@@ -28,4 +28,8 @@ In a browser:
 var rets = $("td").subText(20, "...")
 console.log(rets)
 ```
+# License
+Apache 2.0
+# Contact
+If you have any ideas, feedback, requests or bug reports, you can reach me at 77209302@qq.com
 

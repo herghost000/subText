@@ -8,7 +8,7 @@ In a browser:
 <script src='subText.js'></script>
 ```
 # Usage
-html
+###### html
 ```
 <table style="border:1px solid #000;" border="0">
   <tr>
@@ -23,7 +23,7 @@ html
   </tr>
 </table>
 ```
-js
+###### js
 ```
 var rets = $("td").subText(20, "...")
 console.log(rets)

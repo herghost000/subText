@@ -4,7 +4,8 @@
 # Installation
 In a browser:
 ```
-<script src='state-machine.js'></script>
+<script src='jquery.js'></script>
+<script src='subText.js'></script>
 ```
 # Usage
 

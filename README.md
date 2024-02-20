@@ -18,7 +18,7 @@ In a browser:
     </td>
     <td>All you can do is to try your best. Even with those small steps, you're closer to your goal than you were yesterday.  
       <p>I prefer having your accompanying for life-long time to the short-time tenderness</p>
-      <address>qq77209302</address>
+      <address>hello world</address>
     </td>
   </tr>
 </table>
@@ -31,5 +31,5 @@ console.log(rets)
 # License
 Apache 2.0
 # Contact
-If you have any ideas, feedback, requests or bug reports, you can reach me at 77209302@qq.com
+If you have any ideas, feedback, requests or bug reports, you can reach me
 
